@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace demoproject
 {
-    internal class Foreachh
+    internal class Whilee
     {
         static void Main()
-           {
-            string[] car = { "bmw", "suzuki", "thar", "fournicher" };
-
-           foreach (string a in car)
+        {
+            int i=0;
+            while   (i<10)
             {
-                Console.WriteLine(a);   
+                Console.WriteLine(i);
+                i++;
             }
         }
     }

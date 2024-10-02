@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 
 namespace demoproject
 {
-    internal class Foreachh
+    internal class Dowhiler
     {
         static void Main()
-           {
-            string[] car = { "bmw", "suzuki", "thar", "fournicher" };
-
-           foreach (string a in car)
+        {
+            int i = 1;
+            do
             {
-                Console.WriteLine(a);   
+                Console.WriteLine(i);
+                i++;
             }
+            while (i <= 5);
+
+
         }
+
     }
+
 }
+
+
