@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>demoproject.Dictionary_Assignment</StartupObject>
+	  <StartupObject>demoproject.Singnalcast_deleget</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
