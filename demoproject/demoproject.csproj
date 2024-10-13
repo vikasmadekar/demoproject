@@ -4,7 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>demoproject.Exception__assignment</StartupObject>
+	 
+	  <StartupObject>demoproject.Custom_exception</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
