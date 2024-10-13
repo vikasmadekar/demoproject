@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>demoproject.Singnalcast_deleget</StartupObject>
+	  <StartupObject>demoproject.Exception__assignment</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
