@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	 
-	  <StartupObject>demoproject.Custom_exception</StartupObject>
+	  <StartupObject>demoproject.Customm_exception</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
